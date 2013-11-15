@@ -3,4 +3,6 @@
 Aquí teniu el projecte `CesfMathLib` d'avui. 
 
 Editeu-lo i modifiqueu-lo, afegint el que se us demani a classe.
+Alumne: Isaac
+
 
